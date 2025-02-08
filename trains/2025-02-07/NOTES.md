@@ -65,3 +65,8 @@ Pozitívum, hogy szinte az összeset sejtet felismerte.
 - Kisebb adathalmazból haladva a nagy adathalmazig szükséges pontosabb annotálások manuálisan a tanításhoz.
 - A tanítás beállításait még finomhangolni kell a jobb teljesítményhez.
 - Az utolsó tesztelés során a nagy adathalmazban keletkezett hiányos/téves annotálások javítása a közeljövőben a pontosabb eredményekhez.
+
+## Fájlok
+
+- **task_1015150_job_1984345_annotations_2025_02_07_21_03_20_yolo 1.1.zip**: nagy adathalmaz YOLO exportja a legutolsó annotálásokkal.
+- **task_1015159_job_2013703_annotations_2025_02_07_19_10_29_yolo 1.1.zip**: kisebb adathalmaz YOLO exportja, amiből a tanítás történt.
