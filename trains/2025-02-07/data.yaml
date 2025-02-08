@@ -1,0 +1,15 @@
+path: /content/drive/MyDrive/dataset
+train: images/train
+val: images/val
+nc: 2
+names: ['cell', 'division']
+
+augment:
+  mosaic: 0.1
+  mixup: 0.1
+  hsv_h: 0.01
+  hsv_s: 0.4
+  hsv_v: 0.2
+  perspective: 0.05
+  flipud: 0.2
+  fliplr: 0.2
